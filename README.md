@@ -1,5 +1,4 @@
 # 110000-Hawaiian-Sermons-Parallel-Commentaries
-
 110000-Hawaiian-Sermons-Parallel-Commentaries
 
 https://worlddic.com/xe/file_list.php?folder=sermon1#googtrans(haw) 
@@ -26,6 +25,7 @@ parallel-kjv(asv)-commentary
 https://worlddic.com/xe/view_file4.php?folder=sermon5&file=KJV-Adam_Cla_matthew_1.html#googtrans(haw)
 
 30-Bible-Commentaries
+
  https://worlddic.com/xe/file_list.php?folder=sermon1&keyword=Spur%20Ex#googtrans(haw) Spurgeon's Verse Expositions 
  
  https://worlddic.com/xe/file_list.php?folder=sermon1&keyword=Spurgeon%20Ser#googtrans(haw) Spurgeon's Sermons 
