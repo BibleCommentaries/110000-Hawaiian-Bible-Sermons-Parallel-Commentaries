@@ -17,6 +17,23 @@ You must use the Google web browser below to use this.
 
 https://www.google.com/intl/en/chrome/
 
+110000-Hawaiian-Sermons-Parallel-Commentaries
+
+https://worlddic.com/xe/file_list.php?folder=sermon1#googtrans(haw)
+
+ʻO kēia ka 110,000 Sermons a me nā 30 Commentaries Parallel no ka haʻi ʻōlelo.
+
+He kōkua kēia i kāu hoʻolaha ʻana (Baibala hoʻopaʻa haʻawina).
+
+Pili kēia mau haʻiʻōlelo i nā haʻiʻōlelo ākea ākea a me nā haʻi ʻōlelo baibala.
+
+Ua haku ʻia me nā mokuna Baibala.
+
+No laila e kōkua iā ʻoe e hoʻomaʻalahi i kāu haʻi ʻōlelo.
+
+Pono ʻoe e hoʻohana i ka polokalamu kele pūnaewele Google ma lalo e hoʻohana ai i kēia.
+
+https://www.google.com/intl/en/chrome/
 
 parallel-kjv(asv)-commentary
 https://worlddic.com/xe/view_file3.php?folder=sermon3&file=KJV-Adam_Cla_matthew_1.html#googtrans(haw) 
